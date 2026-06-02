@@ -82,7 +82,7 @@ Email: surajs112005@gmail.com
 
 GitHub: https://github.com/surajsuresh-dev
 
-LinkedIn: Add your LinkedIn profile link here.
+LinkedIn: https://www.linkedin.com/in/suraj-suresh-07267037b/
 
 ---
 
